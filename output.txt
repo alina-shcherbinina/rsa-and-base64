@@ -1,0 +1,11 @@
+pick two prime numbers
+choose prime integer: p = 11
+choose other (different) prime integer: q = 13
+n =  143
+φ = 120
+e = 119
+d = 119
+Encrypted message:  217494967
+Base64:  b'Mg=='b'MTc='b'NDk='b'NDk='b'Njc='
+Decoded base64:  b'2'b'17'b'49'b'49'b'67'
+Decoded RSA:  Hello
